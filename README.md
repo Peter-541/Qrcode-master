@@ -1,0 +1,2 @@
+# Qrcode-master
+ Script python 
